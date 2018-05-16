@@ -45,6 +45,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="créer_nouveau_collaborateur.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="créer_nouveau_collaborateur.Designer.cs">
+      <DependentUpon>créer_nouveau_collaborateur.cs</DependentUpon>
+    </Compile>
     <Compile Include="Ecran Principal.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -53,6 +59,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="créer_nouveau_collaborateur.resx">
+      <DependentUpon>créer_nouveau_collaborateur.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Ecran Principal.resx">
       <DependentUpon>Ecran Principal.cs</DependentUpon>
     </EmbeddedResource>

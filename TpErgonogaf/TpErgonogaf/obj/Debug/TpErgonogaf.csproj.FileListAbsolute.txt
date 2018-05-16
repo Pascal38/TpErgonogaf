@@ -7,3 +7,14 @@ c:\users\cyberdyn\source\repos\TpErgonogaf\TpErgonogaf\obj\Debug\TpErgonogaf.csp
 c:\users\cyberdyn\source\repos\TpErgonogaf\TpErgonogaf\obj\Debug\TpErgonogaf.csproj.CoreCompileInputs.cache
 c:\users\cyberdyn\source\repos\TpErgonogaf\TpErgonogaf\obj\Debug\TpErgonogaf.exe
 c:\users\cyberdyn\source\repos\TpErgonogaf\TpErgonogaf\obj\Debug\TpErgonogaf.pdb
+C:\Users\IKENN\Source\Repos\TpErgonogaf\TpErgonogaf\TpErgonogaf\bin\Debug\TpErgonogaf.exe.config
+C:\Users\IKENN\Source\Repos\TpErgonogaf\TpErgonogaf\TpErgonogaf\bin\Debug\TpErgonogaf.exe
+C:\Users\IKENN\Source\Repos\TpErgonogaf\TpErgonogaf\TpErgonogaf\bin\Debug\TpErgonogaf.pdb
+C:\Users\IKENN\Source\Repos\TpErgonogaf\TpErgonogaf\TpErgonogaf\obj\Debug\TpErgonogaf.csprojResolveAssemblyReference.cache
+C:\Users\IKENN\Source\Repos\TpErgonogaf\TpErgonogaf\TpErgonogaf\obj\Debug\TpErgonogaf.AbiRh.resources
+C:\Users\IKENN\Source\Repos\TpErgonogaf\TpErgonogaf\TpErgonogaf\obj\Debug\TpErgonogaf.Properties.Resources.resources
+C:\Users\IKENN\Source\Repos\TpErgonogaf\TpErgonogaf\TpErgonogaf\obj\Debug\TpErgonogaf.csproj.GenerateResource.cache
+C:\Users\IKENN\Source\Repos\TpErgonogaf\TpErgonogaf\TpErgonogaf\obj\Debug\TpErgonogaf.csproj.CoreCompileInputs.cache
+C:\Users\IKENN\Source\Repos\TpErgonogaf\TpErgonogaf\TpErgonogaf\obj\Debug\TpErgonogaf.exe
+C:\Users\IKENN\Source\Repos\TpErgonogaf\TpErgonogaf\TpErgonogaf\obj\Debug\TpErgonogaf.pdb
+C:\Users\IKENN\Source\Repos\TpErgonogaf\TpErgonogaf\TpErgonogaf\obj\Debug\TpErgonogaf.ggjgjjg.resources
