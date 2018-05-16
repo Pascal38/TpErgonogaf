@@ -39,6 +39,13 @@
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.btnAnnuler = new System.Windows.Forms.Button();
             this.btnOK = new System.Windows.Forms.Button();
+            this.Matricule = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Nom = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Qualification = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Statut = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Contrat = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Salaire = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Fiche = new System.Windows.Forms.DataGridViewLinkColumn();
             this.grpRechercher.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
@@ -117,14 +124,22 @@
             // dataGridView1
             // 
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.Matricule,
+            this.Nom,
+            this.Qualification,
+            this.Statut,
+            this.Contrat,
+            this.Salaire,
+            this.Fiche});
             this.dataGridView1.Location = new System.Drawing.Point(36, 146);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(696, 256);
+            this.dataGridView1.Size = new System.Drawing.Size(737, 256);
             this.dataGridView1.TabIndex = 1;
             // 
             // btnAnnuler
             // 
-            this.btnAnnuler.Location = new System.Drawing.Point(658, 408);
+            this.btnAnnuler.Location = new System.Drawing.Point(698, 408);
             this.btnAnnuler.Name = "btnAnnuler";
             this.btnAnnuler.Size = new System.Drawing.Size(75, 23);
             this.btnAnnuler.TabIndex = 2;
@@ -134,18 +149,53 @@
             // 
             // btnOK
             // 
-            this.btnOK.Location = new System.Drawing.Point(542, 408);
+            this.btnOK.Location = new System.Drawing.Point(591, 408);
             this.btnOK.Name = "btnOK";
             this.btnOK.Size = new System.Drawing.Size(75, 23);
             this.btnOK.TabIndex = 3;
             this.btnOK.Text = "OK";
             this.btnOK.UseVisualStyleBackColor = true;
             // 
+            // Matricule
+            // 
+            this.Matricule.HeaderText = "Matricule";
+            this.Matricule.Name = "Matricule";
+            // 
+            // Nom
+            // 
+            this.Nom.HeaderText = "Nom";
+            this.Nom.Name = "Nom";
+            // 
+            // Qualification
+            // 
+            this.Qualification.HeaderText = "Qualification";
+            this.Qualification.Name = "Qualification";
+            // 
+            // Statut
+            // 
+            this.Statut.HeaderText = "Statut";
+            this.Statut.Name = "Statut";
+            // 
+            // Contrat
+            // 
+            this.Contrat.HeaderText = "Contrat";
+            this.Contrat.Name = "Contrat";
+            // 
+            // Salaire
+            // 
+            this.Salaire.HeaderText = "Salaire";
+            this.Salaire.Name = "Salaire";
+            // 
+            // Fiche
+            // 
+            this.Fiche.HeaderText = "Fiche Perso";
+            this.Fiche.Name = "Fiche";
+            // 
             // frmListeCollabos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(740, 441);
+            this.ClientSize = new System.Drawing.Size(785, 441);
             this.Controls.Add(this.btnOK);
             this.Controls.Add(this.btnAnnuler);
             this.Controls.Add(this.dataGridView1);
@@ -172,5 +222,12 @@
         private System.Windows.Forms.Button btnAnnuler;
         private System.Windows.Forms.ComboBox cbxService;
         private System.Windows.Forms.Button btnOK;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Matricule;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Nom;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Qualification;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Statut;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Contrat;
+        private System.Windows.Forms.DataGridViewTextBoxColumn Salaire;
+        private System.Windows.Forms.DataGridViewLinkColumn Fiche;
     }
 }
