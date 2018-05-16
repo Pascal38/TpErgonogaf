@@ -101,9 +101,9 @@
             this.label2.AutoSize = true;
             this.label2.Location = new System.Drawing.Point(52, 82);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(159, 13);
+            this.label2.Size = new System.Drawing.Size(156, 13);
             this.label2.TabIndex = 3;
-            this.label2.Text = " Dates de début et fin de stage :";
+            this.label2.Text = "Dates de début et fin de stage :";
             // 
             // button1
             // 
@@ -177,9 +177,9 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(52, 78);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(167, 13);
+            this.label5.Size = new System.Drawing.Size(164, 13);
             this.label5.TabIndex = 3;
-            this.label5.Text = " Dates de début et fin de mission :";
+            this.label5.Text = "Dates de début et fin de mission :";
             // 
             // textBox5
             // 
@@ -248,11 +248,11 @@
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(52, 82);
+            this.label8.Location = new System.Drawing.Point(52, 78);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(167, 13);
+            this.label8.Size = new System.Drawing.Size(164, 13);
             this.label8.TabIndex = 3;
-            this.label8.Text = " Dates de début et fin de mission :";
+            this.label8.Text = "Dates de début et fin de mission :";
             // 
             // textBox8
             // 
