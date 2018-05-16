@@ -1,0 +1,9 @@
+c:\users\cyberdyn\source\repos\TpErgonogaf\TpErgonogaf\bin\Debug\TpErgonogaf.exe.config
+c:\users\cyberdyn\source\repos\TpErgonogaf\TpErgonogaf\bin\Debug\TpErgonogaf.exe
+c:\users\cyberdyn\source\repos\TpErgonogaf\TpErgonogaf\bin\Debug\TpErgonogaf.pdb
+c:\users\cyberdyn\source\repos\TpErgonogaf\TpErgonogaf\obj\Debug\TpErgonogaf.AbiRh.resources
+c:\users\cyberdyn\source\repos\TpErgonogaf\TpErgonogaf\obj\Debug\TpErgonogaf.Properties.Resources.resources
+c:\users\cyberdyn\source\repos\TpErgonogaf\TpErgonogaf\obj\Debug\TpErgonogaf.csproj.GenerateResource.cache
+c:\users\cyberdyn\source\repos\TpErgonogaf\TpErgonogaf\obj\Debug\TpErgonogaf.csproj.CoreCompileInputs.cache
+c:\users\cyberdyn\source\repos\TpErgonogaf\TpErgonogaf\obj\Debug\TpErgonogaf.exe
+c:\users\cyberdyn\source\repos\TpErgonogaf\TpErgonogaf\obj\Debug\TpErgonogaf.pdb
